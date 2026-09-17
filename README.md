@@ -7,6 +7,7 @@ Using CeyNews, we define and evaluate three downstream tasks: **(1) News Source 
 This repository contains the **CeyNews corpus, crawling, and preprocessing code** used to build CeyNews. The corpus is also hosted on Zenodo.
 
 📦 **Corpus:** https://zenodo.org/records/20579021 (DOI: `10.5281/zenodo.20579021`)
+
 🤗 **Models:**
 - [`ltguoj/CeyNews-category-infoxlm-large`](https://huggingface.co/ltguoj/CeyNews-category-infoxlm-large) — news category classification
 - [`ltguoj/CeyNews-headline-mt5-large`](https://huggingface.co/ltguoj/CeyNews-headline-mt5-large) — headline generation
